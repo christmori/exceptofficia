@@ -1,0 +1,1 @@
+display(newBoard: string): void;
